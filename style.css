@@ -26,5 +26,13 @@ li{
   font-family: cursive;
 }
 .pessoalendo{
-  width: 20%;
+  height: 500px;
+  width: 500px;
+  margin-left: 50%;
+
+
+}
+.corpo{
+  display: inline-block;
+
 }
