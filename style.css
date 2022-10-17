@@ -19,6 +19,7 @@ font-size: 40px;
   color: white;
   font-size: 80px;
   font-family:cursive;
+
 }
 li{
   font-size: 30px;
@@ -29,10 +30,10 @@ li{
   height: 500px;
   width: 500px;
   margin-left: 50%;
-
+  display: inline-block;
 
 }
 .corpo{
   display: inline-block;
-
+position: absolute;
 }
