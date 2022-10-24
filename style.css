@@ -1,5 +1,6 @@
 body{
   background-color: #FFB6C1
+
 }
 
 h1{
@@ -8,6 +9,7 @@ font-family: Snell Roundhand, cursive;
 color: #F0F8FF;
 font-size: 50px;
 background-color: black;
+border: 10px solid 	#FF1493
 }
 p{
 font-size: 40px;
@@ -30,10 +32,19 @@ li{
   height: 500px;
   width: 500px;
   margin-left: 50%;
-  display: inline-block;
+display: inline-block;
+position: absolute;
+top: 200px;
+left: 400px;
 
 }
 .corpo{
+  display:contents;
+
+}
+.caixa{
   display: inline-block;
-position: absolute;
+}
+img{
+  border: 10px solid #FF1493
 }
